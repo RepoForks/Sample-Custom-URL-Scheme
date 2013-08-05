@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    id="com.borismus.webintent"
+    version="1.0.0">
+
+    <engines>
+        <engine name="cordova" version=">=2.7.0" />
+    </engines>
+    
+    <name>WebIntent</name>
+
+    <asset src="www/WebIntent.js" target="WebIntent.js" />
+
+    <platform name="android">
+        <config-file target="res/xml/config.xml" parent="plugins">
+            <plugin name="WebIntent" value="com.borismus.webintent.WebIntent" />
+        </config-file>
+
+        <source-file src="src/android/WebIntent.java" target-dir="src/com/borismus/webintent" />       
+    </platform>
+
+</plugin>
