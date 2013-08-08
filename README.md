@@ -14,3 +14,6 @@ More information on Android:
 * [Android Intents] (http://developer.android.com/guide/topics/manifest/intent-filter-element.html)
 * [Edit Configuration Files in Icenium] (http://docs.icenium.com/configuring-your-project/edit-configuration)
 * [WebIntent Cordova plugin] (https://github.com/phonegap/phonegap-plugins/tree/master/Android/WebIntent)
+
+
+*Note: This sample will work only when deployed on Android device, the Icenium simulator does not support plugins.*
