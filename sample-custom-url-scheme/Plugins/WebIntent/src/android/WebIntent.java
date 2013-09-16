@@ -13,9 +13,9 @@ import android.net.Uri;
 import android.util.Log;
 import android.text.Html;
  
-import org.apache.cordova.api.CordovaPlugin;
-import org.apache.cordova.api.CallbackContext;
-import org.apache.cordova.api.PluginResult;
+import org.apache.cordova.CordovaPlugin;
+import org.apache.cordova.CallbackContext;
+import org.apache.cordova.PluginResult;
  
 /**
  * WebIntent is a PhoneGap plugin that bridges Android intents and web
