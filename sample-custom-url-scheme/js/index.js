@@ -21,13 +21,13 @@ function handleOpenURL(url) {
         var queryString = url.substr(url.lastIndexOf("//") + 1, url.length);
         var activeurl = path + queryString;
         document.querySelector("#test").innerHTML = "Invocation URL was: " + url;
-        navigator.notification.alert(
+        navigator.notification.confirm(
             'Do you want to navigate?',
             function(btnIndex) {
                 Navigate.apply(this, [{btnIndex:btnIndex, url:activeurl}])
             }, // callback
             null, // title
-            'Go Ahead!'  // buttonName
+            ['Go Ahead!', 'No']  // buttonName
             );
     }
 }
@@ -40,17 +40,27 @@ function handleURLAndroid() {
             var queryString = url.substr(url.lastIndexOf("//") + 1, url.length);
             var activeurl = path + queryString;
             document.querySelector("#test").innerHTML = "Invocation URL was: " + url;
-            navigator.notification.alert(
+            navigator.notification.confirm(
                 'Do you want to navigate?',
                 function(btnIndex) {
                     Navigate.apply(this, [{btnIndex:btnIndex, url:activeurl}])
                 }, // callback
                 null, // title
-                'Go Ahead!'  // buttonName
+                ['Go Ahead!', 'No']  // buttonName
                 );
         }
     });   
-}	
+}
+	
 function Navigate(args) {
-    window.location.href = args.url;
+    if (args.btnIndex == 1) {
+        window.location.href = args.url;
+    } else {
+        return;
+    }
+}
+
+function goBack(){
+  history.go(-1);
+  navigator.app.backHistory();
 }
