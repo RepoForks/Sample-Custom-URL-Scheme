@@ -48,5 +48,6 @@
   "FrameworkVersion": "3.5.0",
   "DisplayName": "URL Scheme",
   "Author": "",
-  "Description": "sample-custom-url-scheme"
+  "Description": "sample-custom-url-scheme",
+  "Framework": "Cordova"
 }
