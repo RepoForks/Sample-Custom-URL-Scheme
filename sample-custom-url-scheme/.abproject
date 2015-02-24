@@ -47,7 +47,5 @@
 	"Author": "",
 	"Description": "sample-custom-url-scheme",
 	"Framework": "Cordova",
-	"projectVersion": 1,
-	"WP8PublisherID": "{14c7e9af-d377-4c2e-91e4-d2552fce87d1}",
-	"WP8ProductID": "{d9f15030-fa0a-4bc9-9f05-90809df82c5e}"
+	"projectVersion": 1
 }
