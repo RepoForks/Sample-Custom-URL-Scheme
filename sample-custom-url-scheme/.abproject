@@ -1,51 +1,53 @@
 {
-  "ProjectGuid": "87c055d4-0d67-4d58-9408-368f6d006212",
-  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
-  "AppIdentifier": "com.telerik.samplecustomurlscheme",
-  "ProjectName": "sample-custom-url-scheme",
-  "AndroidPermissions": [
-    "android.permission.CAMERA",
-    "android.permission.VIBRATE",
-    "android.permission.ACCESS_COARSE_LOCATION",
-    "android.permission.ACCESS_FINE_LOCATION",
-    "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
-    "android.permission.READ_PHONE_STATE",
-    "android.permission.INTERNET",
-    "android.permission.RECEIVE_SMS",
-    "android.permission.RECORD_AUDIO",
-    "android.permission.MODIFY_AUDIO_SETTINGS",
-    "android.permission.READ_CONTACTS",
-    "android.permission.WRITE_CONTACTS",
-    "android.permission.WRITE_EXTERNAL_STORAGE",
-    "android.permission.ACCESS_NETWORK_STATE",
-    "android.permission.ACCOUNT_MANAGER",
-    "android.permission.GET_ACCOUNTS",
-    "android.permission.MANAGE_ACCOUNTS",
-    "android.permission.BROADCAST_STICKY"
-  ],
-  "DeviceOrientations": [
-    "Portrait",
-    "Landscape"
-  ],
-  "iOSStatusBarStyle": "Default",
-  "AndroidHardwareAcceleration": "false",
-  "BundleVersion": "1.0",
-  "iOSDisplayName": "",
-  "iOSDeviceFamily": [
-    "1",
-    "2"
-  ],
-  "AndroidVersionCode": "1",
-  "CorePlugins": [
-    "org.apache.cordova.device",
-    "org.apache.cordova.inappbrowser",
-    "org.apache.cordova.dialogs",
-    "org.apache.cordova.splashscreen",
-    "org.apache.cordova.statusbar"
-  ],
-  "FrameworkVersion": "3.5.0",
-  "DisplayName": "URL Scheme",
-  "Author": "",
-  "Description": "sample-custom-url-scheme",
-  "Framework": "Cordova"
+	"ProjectGuid": "87c055d4-0d67-4d58-9408-368f6d006212",
+	"ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+	"AppIdentifier": "com.telerik.samplecustomurlscheme",
+	"ProjectName": "sample-custom-url-scheme",
+	"AndroidPermissions": [
+		"android.permission.CAMERA",
+		"android.permission.VIBRATE",
+		"android.permission.ACCESS_COARSE_LOCATION",
+		"android.permission.ACCESS_FINE_LOCATION",
+		"android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+		"android.permission.READ_PHONE_STATE",
+		"android.permission.INTERNET",
+		"android.permission.RECEIVE_SMS",
+		"android.permission.RECORD_AUDIO",
+		"android.permission.MODIFY_AUDIO_SETTINGS",
+		"android.permission.READ_CONTACTS",
+		"android.permission.WRITE_CONTACTS",
+		"android.permission.WRITE_EXTERNAL_STORAGE",
+		"android.permission.ACCESS_NETWORK_STATE",
+		"android.permission.ACCOUNT_MANAGER",
+		"android.permission.GET_ACCOUNTS",
+		"android.permission.MANAGE_ACCOUNTS",
+		"android.permission.BROADCAST_STICKY"
+	],
+	"DeviceOrientations": [
+		"Portrait",
+		"Landscape"
+	],
+	"iOSStatusBarStyle": "Default",
+	"AndroidHardwareAcceleration": "false",
+	"BundleVersion": "1.0",
+	"iOSDeviceFamily": [
+		"1",
+		"2"
+	],
+	"AndroidVersionCode": "1",
+	"CorePlugins": [
+		"org.apache.cordova.device",
+		"org.apache.cordova.inappbrowser",
+		"org.apache.cordova.dialogs",
+		"org.apache.cordova.splashscreen",
+		"org.apache.cordova.statusbar"
+	],
+	"FrameworkVersion": "3.5.0",
+	"DisplayName": "sample-custom-url-scheme",
+	"Author": "",
+	"Description": "sample-custom-url-scheme",
+	"Framework": "Cordova",
+	"projectVersion": 1,
+	"WP8PublisherID": "{14c7e9af-d377-4c2e-91e4-d2552fce87d1}",
+	"WP8ProductID": "{d9f15030-fa0a-4bc9-9f05-90809df82c5e}"
 }
