@@ -43,8 +43,13 @@
 		"org.apache.cordova.statusbar"
 	],
 	"FrameworkVersion": "3.5.0",
-	"DisplayName": "sample-custom-url-scheme",
+	"DisplayName": "Custom-url-scheme",
 	"Author": "",
+	"WP8Publisher": "",
+	"WP8TileTitle": "",
+	"WP8Capabilities": [],
+	"iOSBackgroundMode": [],
+	"WP8Requirements": [],
 	"Description": "sample-custom-url-scheme",
 	"Framework": "Cordova",
 	"projectVersion": 1
