@@ -42,7 +42,7 @@
 		"org.apache.cordova.splashscreen",
 		"org.apache.cordova.statusbar"
 	],
-	"FrameworkVersion": "3.5.0",
+	"FrameworkVersion": "3.7.0",
 	"DisplayName": "Custom-url-scheme",
 	"Author": "",
 	"WP8Publisher": "",
