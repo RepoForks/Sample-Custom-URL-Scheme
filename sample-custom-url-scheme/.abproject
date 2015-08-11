@@ -52,5 +52,14 @@
 	"WP8Requirements": [],
 	"Description": "sample-custom-url-scheme",
 	"Framework": "Cordova",
-	"projectVersion": 1
+	"projectVersion": 1,
+	"WP8PublisherID": "{b86c5c25-c713-445c-b3a3-f0b33092a478}",
+	"WP8ProductID": "{2a206814-c03f-4cf7-b5bb-9018cba74995}",
+	"WP8PackageIdentityName": "1234Telerik.com.telerik.samplecustomurlscheme",
+	"WP8WindowsPublisherName": "CN=Telerik",
+	"WP8SupportedResolutions": [
+		"ID_RESOLUTION_HD720P",
+		"ID_RESOLUTION_WVGA",
+		"ID_RESOLUTION_WXGA"
+	]
 }
