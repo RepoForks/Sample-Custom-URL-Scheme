@@ -1,0 +1,7 @@
+title: Custom URL Scheme
+slug: sample-custom-url-scheme
+page_title: Custom URL Scheme | Apache Cordova Sample | Telerik Platform
+description: This sample shows you how to create an app which can be called from another app using a myapp:// custom URL scheme.
+tags: Apache Cordova, iOS, Android, WebIntent, AndroidManifest.xml, Info.plist, custom URL scheme
+publish: true
+content_filter: true
