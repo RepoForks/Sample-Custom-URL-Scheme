@@ -4,7 +4,6 @@ Custom URL Schemes in iOS and Android
 
 <a id="top"></a>
 * [Overview](#overview)
-* [Showcased APIs](#showcased-apis)
 * [Important Directories and Files](#important-directories-and-files)
 * [Screenshots](#screenshots)
 * [Test the Sample](#test-the-sample)
@@ -15,20 +14,6 @@ This sample shows you how to use an Android-specific custom plugin and the Info.
 > *Supported mobile platforms:* iOS, Android
 >
 > *Developed with:* Apache Cordova 3.7.0, WebIntent 1.0.0
-
-[Back to Top](#top)
-
-# Showcased APIs
-
-This sample includes the Android-specific custom plugin **WebIntent**. For Android apps, this sample shows you how to use the following plugin method.
-
-* **webintent.getUri()**: Gets the URI with which the app was invoked.
-
-This sample shows you how to use the following configuration keys of [AndroidManifest.xml][android manifest] and [Info.plist][info plist] to register the custom URL scheme for the app.
-
-* **Info.plist &#8594; CFBundleURLName**: For iOS, sets an identifier for the URL scheme.
-* **Info.plist &#8594; CFBundleURLSchemes**: For iOS, specifies a URL scheme handled and supported by the app.
-* **AndroidManifest.xml &#8594; intent-filter**: For Android, registers the app to a custom URI scheme. Specifies that a view action can be performed on your app and that the app is browsable.
 
 [Back to Top](#top)
 
@@ -206,5 +191,3 @@ With the AppBuilder command-line interface, you can quickly test your apps on de
 [create new project windows]: http://docs.telerik.com/platform/appbuilder/creating-your-project/creating-a-new-project#windows
 [create new project in-browser]: http://docs.telerik.com/platform/appbuilder/creating-your-project/creating-a-new-project#in-browser
 [create new project vse]: http://docs.telerik.com/platform/appbuilder/creating-your-project/creating-a-new-project#visual-studio
-[android manifest]: http://developer.android.com/guide/topics/manifest/manifest-intro.html
-[info plist]: https://developer.apple.com/library/ios/documentation/General/Reference/InfoPlistKeyReference/Articles/iPhoneOSKeys.html#//apple_ref/doc/uid/TP40009252-SW2
