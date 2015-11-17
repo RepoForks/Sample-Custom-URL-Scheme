@@ -5,3 +5,4 @@ description: This sample shows you how to create an app which can be called from
 tags: Apache Cordova, iOS, Android, WebIntent, AndroidManifest.xml, Info.plist, custom URL scheme
 publish: true
 content_filter: true
+apis: cordova.webintent ios.CFBundleURLName ios.CFBundleURLSchemes android.intent-filter
