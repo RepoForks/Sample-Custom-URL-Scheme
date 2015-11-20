@@ -1,65 +1,65 @@
 {
-	"ProjectGuid": "87c055d4-0d67-4d58-9408-368f6d006212",
-	"ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
-	"AppIdentifier": "com.telerik.samplecustomurlscheme",
-	"ProjectName": "sample-custom-url-scheme",
-	"AndroidPermissions": [
-		"android.permission.CAMERA",
-		"android.permission.VIBRATE",
-		"android.permission.ACCESS_COARSE_LOCATION",
-		"android.permission.ACCESS_FINE_LOCATION",
-		"android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
-		"android.permission.READ_PHONE_STATE",
-		"android.permission.INTERNET",
-		"android.permission.RECEIVE_SMS",
-		"android.permission.RECORD_AUDIO",
-		"android.permission.MODIFY_AUDIO_SETTINGS",
-		"android.permission.READ_CONTACTS",
-		"android.permission.WRITE_CONTACTS",
-		"android.permission.WRITE_EXTERNAL_STORAGE",
-		"android.permission.ACCESS_NETWORK_STATE",
-		"android.permission.ACCOUNT_MANAGER",
-		"android.permission.GET_ACCOUNTS",
-		"android.permission.MANAGE_ACCOUNTS",
-		"android.permission.BROADCAST_STICKY"
-	],
-	"DeviceOrientations": [
-		"Portrait",
-		"Landscape"
-	],
-	"iOSStatusBarStyle": "Default",
-	"AndroidHardwareAcceleration": "false",
-	"BundleVersion": "1.0",
-	"iOSDeviceFamily": [
-		"1",
-		"2"
-	],
-	"AndroidVersionCode": "1",
-	"CorePlugins": [
-		"org.apache.cordova.device",
-		"org.apache.cordova.inappbrowser",
-		"org.apache.cordova.dialogs",
-		"org.apache.cordova.splashscreen",
-		"org.apache.cordova.statusbar"
-	],
-	"FrameworkVersion": "3.7.0",
-	"DisplayName": "Custom-url-scheme",
-	"Author": "",
-	"WP8Publisher": "",
-	"WP8TileTitle": "",
-	"WP8Capabilities": [],
-	"iOSBackgroundMode": [],
-	"WP8Requirements": [],
-	"Description": "sample-custom-url-scheme",
-	"Framework": "Cordova",
-	"projectVersion": 1,
-	"WP8PublisherID": "{b86c5c25-c713-445c-b3a3-f0b33092a478}",
-	"WP8ProductID": "{2a206814-c03f-4cf7-b5bb-9018cba74995}",
-	"WP8PackageIdentityName": "1234Telerik.com.telerik.samplecustomurlscheme",
-	"WP8WindowsPublisherName": "CN=Telerik",
-	"WP8SupportedResolutions": [
-		"ID_RESOLUTION_HD720P",
-		"ID_RESOLUTION_WVGA",
-		"ID_RESOLUTION_WXGA"
-	]
+  "ProjectGuid": "87c055d4-0d67-4d58-9408-368f6d006212",
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "AppIdentifier": "com.telerik.samplecustomurlscheme",
+  "ProjectName": "sample-custom-url-scheme",
+  "AndroidPermissions": [
+    "android.permission.CAMERA",
+    "android.permission.VIBRATE",
+    "android.permission.ACCESS_COARSE_LOCATION",
+    "android.permission.ACCESS_FINE_LOCATION",
+    "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+    "android.permission.READ_PHONE_STATE",
+    "android.permission.INTERNET",
+    "android.permission.RECEIVE_SMS",
+    "android.permission.RECORD_AUDIO",
+    "android.permission.MODIFY_AUDIO_SETTINGS",
+    "android.permission.READ_CONTACTS",
+    "android.permission.WRITE_CONTACTS",
+    "android.permission.WRITE_EXTERNAL_STORAGE",
+    "android.permission.ACCESS_NETWORK_STATE",
+    "android.permission.ACCOUNT_MANAGER",
+    "android.permission.GET_ACCOUNTS",
+    "android.permission.MANAGE_ACCOUNTS",
+    "android.permission.BROADCAST_STICKY"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "iOSStatusBarStyle": "Default",
+  "AndroidHardwareAcceleration": "false",
+  "BundleVersion": "1.0",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "AndroidVersionCode": "1",
+  "CorePlugins": [
+    "org.apache.cordova.device",
+    "org.apache.cordova.inappbrowser",
+    "org.apache.cordova.dialogs",
+    "org.apache.cordova.splashscreen",
+    "org.apache.cordova.statusbar"
+  ],
+  "FrameworkVersion": "3.7.0",
+  "DisplayName": "Custom-url-scheme",
+  "Author": "",
+  "WP8Publisher": "",
+  "WP8TileTitle": "",
+  "WP8Capabilities": [],
+  "iOSBackgroundMode": [],
+  "WP8Requirements": [],
+  "Description": "sample-custom-url-scheme",
+  "Framework": "Cordova",
+  "projectVersion": 1,
+  "WP8PublisherID": "{b86c5c25-c713-445c-b3a3-f0b33092a478}",
+  "WP8ProductID": "{2a206814-c03f-4cf7-b5bb-9018cba74995}",
+  "WP8PackageIdentityName": "1234Telerik.com.telerik.samplecustomurlscheme",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_HD720P",
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA"
+  ]
 }
