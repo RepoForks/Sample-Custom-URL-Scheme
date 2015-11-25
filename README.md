@@ -13,7 +13,7 @@ This sample shows you how to use an Android-specific custom plugin and the Info.
 
 > *Supported mobile platforms:* iOS, Android
 >
-> *Developed with:* Apache Cordova 3.7.0, WebIntent 1.0.0
+> *Developed with:* Windows Phone SDK 8.1, Apache Cordova 3.7.0, WebIntent 1.0.0
 
 [Back to Top](#top)
 
