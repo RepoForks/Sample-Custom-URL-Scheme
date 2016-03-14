@@ -1,6 +1,6 @@
 Custom URL Schemes in iOS and Android
 ========================
-<a href="https://platform.telerik.com/#appbuilder/clone/https%3A%2F%2Fgithub.com%2FIcenium%2Fsample-custom-url-scheme" target="_blank"><img src="http://docs.telerik.com/platform/samples/images/try-in-appbuilder.png" alt="Try in AppBuilder" title="Try in AppBuilder" /></a>  
+<a href="https://platform.telerik.com/#appbuilder/clone/https%3A%2F%2Fgithub.com%2FIcenium%2Fsample-custom-url-scheme" target="_blank"><img src="http://docs.telerik.com/platform/samples/images/try-in-appbuilder.png" alt="Try in the Platform" title="Try in the Platform" /></a>  
 
 <a id="top"></a>
 * [Overview](#overview)
@@ -11,9 +11,9 @@ Custom URL Schemes in iOS and Android
 
 This sample shows you how to use an Android-specific custom plugin and the Info.plist configuration file for iOS to register a custom URL scheme for your app. You can later call the app from another app using the custom URL scheme.
 
-> *Supported mobile platforms:* iOS, Android
+> *Supported mobile platforms:* iOS 7.1+, Android 4.4+
 >
-> *Developed with:* Windows Phone SDK 8.1, Apache Cordova 4.0.0, WebIntent 1.0.0
+> *Developed with:* Apache Cordova 4.0.0, WebIntent 1.0.0
 
 [Back to Top](#top)
 
@@ -29,7 +29,7 @@ This sample shows you how to use an Android-specific custom plugin and the Info.
 
 Platform | Home
 ---|---
-All | ![](https://raw.githubusercontent.com/Icenium/sample-custom-url-scheme/master/screenshots/navigation.jpg)
+All | ![](/screenshots/home.png)
 
 [Back to Top](#top)
 
@@ -98,7 +98,7 @@ With the AppBuilder Windows client, you can quickly test your apps on device, in
 
 ## Visual Studio
 
-With the AppBuilder extension for Visual Studio, you can develop hybrid and NativeScript cross-platform mobile apps from Microsoft Visual Studio. You can download and install the extension from [http://www.telerik.com/appbuilder/visual-studio-extension](http://www.telerik.com/appbuilder/visual-studio-extension).
+With the AppBuilder extension for Visual Studio, you can develop hybrid and NativeScript cross-platform mobile apps from Microsoft Visual Studio. You can download and install the extension [here](http://www.telerik.com/appbuilder/visual-studio-extension).
 
 ### Clone the sample
 
@@ -133,7 +133,7 @@ With the AppBuilder extension for Visual Studio, you can quickly test your apps 
 
 ## CLI
 
-With the AppBuilder command-line interface, you can develop hybrid and NativeScript cross-platform mobile apps from the command line. You can learn how to add the AppBuilder commands to your command line from [http://www.telerik.com/appbuilder/command-line-interface](http://www.telerik.com/appbuilder/command-line-interface).
+With the AppBuilder command-line interface, you can develop hybrid and NativeScript cross-platform mobile apps from the command line. You can learn how to add the AppBuilder commands to your command line [here](http://www.telerik.com/appbuilder/command-line-interface).
 
 ### Clone the sample
 
