@@ -28,7 +28,7 @@
 		"Landscape"
 	],
 	"iOSStatusBarStyle": "Default",
-	"AndroidHardwareAcceleration": "false",
+	"AndroidHardwareAcceleration": "true",
 	"BundleVersion": "1.0",
 	"iOSDeviceFamily": [
 		"1",
@@ -36,13 +36,14 @@
 	],
 	"AndroidVersionCode": "1",
 	"CorePlugins": [
-		"org.apache.cordova.device",
-		"org.apache.cordova.inappbrowser",
-		"org.apache.cordova.dialogs",
-		"org.apache.cordova.splashscreen",
-		"org.apache.cordova.statusbar"
+		"cordova-plugin-device",
+		"cordova-plugin-inappbrowser",
+		"cordova-plugin-dialogs",
+		"cordova-plugin-splashscreen",
+		"cordova-plugin-statusbar",
+		"cordova-plugin-whitelist"
 	],
-	"FrameworkVersion": "3.7.0",
+	"FrameworkVersion": "4.0.0",
 	"DisplayName": "Custom-url-scheme",
 	"Author": "",
 	"WP8Publisher": "",
