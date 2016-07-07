@@ -29,7 +29,7 @@ This sample shows you how to use an Android-specific custom plugin and the Info.
 
 Platform | Home
 ---|---
-All | ![](/screenshots/home.png)
+All | ![](https://raw.githubusercontent.com/Icenium/Sample-Custom-URL-Scheme/master/screenshots/home.png)
 
 [Back to Top](#top)
 
